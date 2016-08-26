@@ -12,4 +12,9 @@ We welcome contributions to the **rmarkdown** package. To submit a contribution:
 
 We'll try to be as responsive as possible in reviewing and accepting pull requests. Appreciate your contributions very much!
 
+```{r sysinfo}
+sessionInfo()
+```
+
+
 
